@@ -30,7 +30,7 @@ I'm a data science professional with a Master's degree in Statistical Data Scien
 
 ### Education
 
-**M.S. in Statistical Data Science** - San Francisco State University (2024)
+**M.S. in Statistical Data Science** - San Francisco State University (2025)
 
 ---
 
