@@ -67,3 +67,15 @@ I'm a data science professional with a Master's degree in Statistical Data Scien
 [![Portfolio](https://img.shields.io/badge/Portfolio-pooja--portfolio2026.vercel.app-blue?style=flat-square)](https://pooja-portfolio2026.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja%20Chavanpatil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poojachavanpatil/)
 [![Email](https://img.shields.io/badge/Email-pchavanpatil4%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pchavanpatil4@gmail.com)
+
+
+## PayGuard - Key Results
+
+| Fraud by Product | SHAP Feature Importance |
+|-----------------|------------------------|
+| ![Fraud by Product](fraud_by_product.png) | ![SHAP](shap_importance.png) |
+
+| Threshold Optimization | Model PR Curves |
+|----------------------|-----------------|
+| ![Threshold](threshold_optimization.png) | ![PR Curves](tree_pr_curves.png) |
+
