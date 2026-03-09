@@ -19,6 +19,7 @@ I'm a data science professional with a Master's degree in Statistical Data Scien
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [PayGuard - Fraud Detection](https://github.com/PoojaChavanPatil/fraud-detection-payguard) | Production fraud detection on 590k transactions — XGBoost, SHAP, Streamlit (PR-AUC: 0.84, ROC-AUC: 0.97) | Python, XGBoost, SHAP, Streamlit |
 | [Marketplace Forecast Simulator](https://github.com/PoojaChavanPatil/marketplace-forecast-simulator) | Predicting Wish e-commerce product sales using ensemble ML methods with feature selection (RFE, LassoCV) | Python, XGBoost, Scikit-learn |
 | [Predicting Future Stock Prices](https://github.com/PoojaChavanPatil/Predicting-Future-Stock-Prices-Project-Overview) | ML models to predict S&P 500 stock prices using feature engineering and 6 regression models | Python, Scikit-learn, Pandas |
 | [Netflix A/B Testing Pipeline](https://github.com/PoojaChavanPatil/netflix-ab-testing) | End-to-end experimentation pipeline on MovieLens 32M — CUPED, Sequential Testing, Bayesian inference | Python, Scipy, Statsmodels |
