@@ -80,3 +80,6 @@ I'm a data science professional with a Master's degree in Statistical Data Scien
 |----------------------|-----------------|
 | ![Threshold](threshold_optimization.png) | ![PR Curves](tree_pr_curves.png) |
 
+## Dashboard Preview
+![SearchXP Dashboard](dashboard.png)
+
