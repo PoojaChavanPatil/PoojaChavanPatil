@@ -3,7 +3,6 @@
 **Data Scientist | MS in Statistical Data Science, San Francisco State University**
 
 I'm a data science professional with a Master's degree in Statistical Data Science from San Francisco State University and prior industry experience from India. I specialize in building machine learning models, performing statistical analysis, and turning complex data into actionable insights.
-
 ---
 
 ### What I Work With
@@ -65,7 +64,7 @@ I'm a data science professional with a Master's degree in Statistical Data Scien
 
 ### Let's Connect
 
-[![Portfolio](https://poojachavanpatil.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=flat-square&logo=github)](https://poojachavanpatil.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja%20Chavanpatil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poojachavanpatil/)
 [![Email](https://img.shields.io/badge/Email-pchavanpatil4%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pchavanpatil4@gmail.com)
 
